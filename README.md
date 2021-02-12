@@ -1,10 +1,16 @@
 [![Header](https://github.com/myJarvis/myJarvis/blob/main/misc/hiiamsachin.png "Header")](https://medium.com/@iAmSachinRajput)
 
-# Hello, folks! <img src="https://github.com/myJarvis/myJarvis/blob/main/misc/me.gif" width="180" height="180" align="left" />
+# Hello, folks!  <img src="https://github.com/myJarvis/myJarvis/blob/main/misc/wave.gif" width="30px">
+<img src="https://github.com/myJarvis/myJarvis/blob/main/misc/me.gif" width="100" height="100" align="left" />
+
+
 <br/>
-My name is Sachin Rajput and I'm a Software Engineer focused on native Android Applications Development. I'm from India, living in Bengaluru and currently working at Biofourmis.
+My name is Sachin Rajput and I'm a Software Engineer focused on native Android Applications Development. I'm from India, living in Bengaluru and currently working at <a href="https://www.biofourmis.com/">Biofourmis</a>
 
-<br/> <br/><br/> <br/>
-## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain medium blog - you can find my articles on my [Page here](https://medium.com/@iAmSachinRajput).
+<br/> <br/>
+## &#x270d; Tech Blog & Writing
+
+Apart from full time Coding, I also write about some cool Android stuff based on my real experience in development, at my medium blog page, - you can find my articles on my <a href="https://medium.com/@iAmSachinRajput/">Page here</a> .
+
+
