@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/myJarvis/myJarvis/blob/main/misc/me.gif" width=100%  align="left"/>
 
 <!--
 **myJarvis/myJarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
