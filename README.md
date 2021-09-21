@@ -14,4 +14,4 @@ My name is Sachin Rajput and I'm a Software Engineer focused on native Android A
 Apart from full time Coding, I also write about some cool Android stuff based on my real experience in development, at my medium blog page, - you can find my articles on my <a href="https://droid-lover.medium.com//">Medium page here</a> .
 <br/> <br/>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=droid-lover&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=droid-lover&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
