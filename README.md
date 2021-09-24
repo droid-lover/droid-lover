@@ -15,3 +15,4 @@ Apart from full time Coding, I also write about some cool Android stuff based on
 <br/> <br/>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=droid-lover&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+
