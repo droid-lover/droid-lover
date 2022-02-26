@@ -5,7 +5,7 @@
 
 
 <br/>
-My name is Sachin Rajput a developer from India and I work with Android on daily basis and I love creating native Mobile apps which can help users and give a plesant experience  :)
+My name is Sachin Rajput, a developer from India and I work with Android on daily basis and I love creating native Mobile apps which can help users and give a plesant experience  :)
 
 
 
