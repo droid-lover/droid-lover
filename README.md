@@ -10,7 +10,7 @@ My name is Sachin Rajput, a developer from India and I work with Android on dail
 
 
 <br/> <br/>
-## &#x270d; Tech Blog & Writing
+## &#x270d; Tech Blog & implementation videos
 
 I love contributing to Open Source community and I share my learnings and respective implementation on my Youtube Channel (Native Mobile Bits) and on Medium as well.
 <br/><br/>
