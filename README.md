@@ -1,6 +1,6 @@
 [![Header](https://github.com/myJarvis/myJarvis/blob/main/misc/hiiamsachin.png "Header")](https://medium.com/@iAmSachinRajput)
 
-# Hello, folks!  <img src="https://github.com/myJarvis/myJarvis/blob/main/misc/wave.gif" width="30px">
+# Hello, folks! 
 <img src="https://github.com/myJarvis/myJarvis/blob/main/misc/me.gif" width="100" height="100" align="left" />
 
 
