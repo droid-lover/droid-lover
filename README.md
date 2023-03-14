@@ -20,5 +20,4 @@ checkout <a href="https://www.youtube.com/channel/UCTjQSpx2waqXTC37AgM8qyA"> my 
 <br/> <br/>
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=droid-lover&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
