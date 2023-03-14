@@ -20,4 +20,4 @@ checkout <a href="https://www.youtube.com/channel/UCTjQSpx2waqXTC37AgM8qyA"> my 
 <br/> <br/>
 
 
-
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=droid-lover)](https://github.com/droid-lover/github-readme-stats)
