@@ -18,5 +18,6 @@ You can also check my articles about some cool Android stuff based on my real ex
 checkout </a>
 <br/> <br/>
 
+![](https://komarev.com/ghpvc/?username=droid-lover&color=blueviolet)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=droid-lover)](https://github.com/droid-lover/github-readme-stats)
