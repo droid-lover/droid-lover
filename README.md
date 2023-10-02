@@ -11,9 +11,11 @@ My name is Sachin Rajput, a developer from India I have been working with Androi
 
 I love contributing to Open Source community and I share my learnings and respective implementation at my Youtube Channel (Native Mobile Bits) and on Medium as well.
 <br/><br/>
-Apart from full time Coding, I also write about some cool Android stuff based on my real experience in development, at my medium blog page, - you can find my articles on my <a href="https://droid-lover.medium.com//">Medium publication</a> .
+Apart from full time Coding, I share coding videos, focused on Android, Kotlin, Jetpack Compose, DevOps at <a href="https://www.youtube.com/channel/UCTjQSpx2waqXTC37AgM8qyA"> my YouTube channel (Native Mobile Bits).
 
-checkout <a href="https://www.youtube.com/channel/UCTjQSpx2waqXTC37AgM8qyA"> my YouTube channel (Native Mobile Bits) </a>
+You can also check my articles about some cool Android stuff based on my real experience in development, at my medium blog page, - you can find my articles at my <a href="https://droid-lover.medium.com//">Medium publication</a> 
+
+checkout </a>
 <br/> <br/>
 
 
