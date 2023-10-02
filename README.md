@@ -5,9 +5,8 @@
 <br/>
 My name is Sachin Rajput, a developer from India I have been working with Android on a daily basis for the last 7+years & love creating native Mobile apps which can help users. :)
 
-
 <br/> <br/>
-## &#x270d; Tech Blog & implementation videos
+## &#x270d; Coding videos & articles
 
 I love contributing to Open Source community and I share my learnings and respective implementation at my Youtube Channel (Native Mobile Bits) and on Medium as well.
 <br/><br/>
