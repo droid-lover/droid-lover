@@ -6,7 +6,11 @@
 My name is Sachin Rajput, a developer from India I have been working with Android on a daily basis for the last 8+years & love creating native Mobile apps which can help users. :)
 <br/>
 <br/>
-I have worked as Founding Engineer in various Startups including 2 Unicrons <a href = "https://www.biofourmis.com">Biofourmis</a> and <a href = "https://tekion.com/">Tekion</a> (both USA Product Companies)
+I have worked as Founding Engineer in various Startups including 2 Unicrons <a href = "https://www.biofourmis.com">Biofourmis</a> and <a href = "https://tekion.com/">Tekion</a> (both USA Product Companies) 
+<br/>
+<br/>
+ I was also the Lead Android Contributor for <a href = "https://www.biofourmis.com">Biofourmis</a> where I started as a Founding Engineer, scaled the products over the years till it became a Unicorn. 
+ 
 <br/>
 <br/>
 Currently I am working at <a href = "https://twinhealth.com/">Twin Health </a>   here I'm working in USA Engineering POD, <br/>
