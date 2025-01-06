@@ -3,7 +3,14 @@
 # Hello, Friends! 
 
 <br/>
-My name is Sachin Rajput, a developer from India I have been working with Android on a daily basis for the last 7+years & love creating native Mobile apps which can help users. :)
+My name is Sachin Rajput, a developer from India I have been working with Android on a daily basis for the last 8+years & love creating native Mobile apps which can help users. :)
+<br/>
+<br/>
+I have worked as Founding Engineer in various Startups including 2 Unicrons <a href = "https://www.biofourmis.com">Biofourmis</a> and <a href = "https://tekion.com/">Tekion</a> (both USA Product Companies)
+<br/>
+<br/>
+Currently I am working at <a href = "https://twinhealth.com/">Twin Health </a>   here I'm working in USA Engineering POD, <br/>
+<br/> and In my working tenure at RentoMojo I was also the Lead Android Contributor for <a href = "https://play.google.com/store/apps/details?id=com.rentomojo&pcampaignid=web_share"> RentoMojo's Customer facing app </a> which had more than 1000000 users at that time.
 
 <br/> <br/>
 ## &#x270d; Coding videos & articles
