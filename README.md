@@ -1,20 +1,24 @@
-[![Header](https://github.com/myJarvis/myJarvis/blob/main/misc/hiiamsachin.png "Header")](https://medium.com/@iAmSachinRajput)
+<!--[![Header](https://github.com/myJarvis/myJarvis/blob/main/misc/hiiamsachin.png "Header")](https://medium.com/@iAmSachinRajput)-->
 
 # Hello, Friends! 
 
-<br/>
-My name is Sachin Rajput, a developer from India I have been working with Android on a daily basis for the last 8+years & love creating native Mobile apps which can help users. :)
-<br/>
-<br/>
-I have worked as Founding Engineer in various Startups including 2 Unicrons <a href = "https://www.biofourmis.com">Biofourmis</a> and <a href = "https://tekion.com/">Tekion</a> (both USA Product Companies) 
-<br/>
-<br/>
- I was also the Lead Android Contributor for <a href = "https://www.biofourmis.com">Biofourmis</a> where I started as a Founding Engineer, scaled the products over the years till it became a Unicorn. 
- 
-<br/>
-<br/>
-Currently I am working at <a href = "https://twinhealth.com/">Twin Health </a>   here I'm working in USA Engineering POD, <br/>
-<br/> and In my working tenure at RentoMojo I was also the Lead Android Contributor for <a href = "https://play.google.com/store/apps/details?id=com.rentomojo&pcampaignid=web_share"> RentoMojo's Customer facing app </a> which had more than 1000000 users at that time.
+My name is Sachin Rajput I am a Versatile Senior Software Engineer with 8+ years of experience delivering high-quality native applications 
+Tech Stack : Kotlin, Jetpack Compose, Android, Kotlin Multiplatform
+
+I Love Building scalable products which helps Users in real life.
+
+I have served as a Founding Engineer at several startups, including two unicorns: <a href = "https://www.biofourmis.com">Biofourmis</a> and <a href = "https://tekion.com/">Tekion</a>, (both USA Product Companies).
+
+At <a href = "https://www.biofourmis.com">Biofourmis</a>, I was the Lead Android Contributor, starting as a Founding Engineer and scaling our products over the years until the company achieved unicorn status.
+
+At <a href = "https://tekion.com/">Tekion</a> I was a member of Founding Product Engineering team.
+
+Currently, I work at <a href = "https://twinhealth.com/">Twin Health </a> in the USA as part of the Core Engineering Team.
+
+Previously, at RentoMojo, a customer-facing startup, I was also the Lead Android Contributor for the <a href = "https://play.google.com/store/apps/details?id=com.rentomojo&pcampaignid=web_share"> RentoMojo app </a>, which had over 10,00,000 users at that time.
+
+In addition to my work, I contribute to the Android open-source community across various platforms, including Medium, GitHub, YouTube, and Stack Overflow.
+
 
 <br/> <br/>
 ## &#x270d; Coding videos & articles
