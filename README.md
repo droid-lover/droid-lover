@@ -34,6 +34,6 @@ checkout </a>
 
 ![](https://komarev.com/ghpvc/?username=droid-lover&color=blueviolet)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=droid-lover)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=droid-lover)](https://git.io/streak-stats)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=droid-lover)](https://github.com/droid-lover/github-readme-stats)
