@@ -3,7 +3,7 @@
 # Hello, Friends! 
 
 My name is Sachin Rajput I am a Versatile Senior Software Engineer with 8+ years of experience delivering high-quality native applications 
-Tech Stack : Kotlin, Jetpack Compose, Android, Kotlin Multiplatform.
+Tech Stack : Kotlin, Jetpack Compose, Android, Kotlin Multiplatform. 
 
 I Love Building scalable products which helps Users in real life and put a smile on user's face.
 
