@@ -32,8 +32,6 @@ You can also check my articles about some cool Android stuff based on my real ex
 checkout </a>
 <br/> <br/>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=droid-lover)](https://github.com/droid-lover/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=droid-lover&color=blueviolet)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=droid-lover\&include_all_commits=true\&rank_icon=github\&show_icons=true\&show=prs_merged_percentage)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=droid-lover)](https://git.io/streak-stats) -->
