@@ -7,7 +7,7 @@ Tech Stack : Kotlin, Jetpack Compose, Android, Kotlin Multiplatform.
 
 I Love Building scalable products which helps Users in real life and put a smile on user's face.
 
-I have served as a Founding Engineer at several startups, including two unicorns: <a href = "https://www.biofourmis.com">Biofourmis</a> and <a href = "https://tekion.com/">Tekion</a>, (both USA Product Companies).
+I have served as a Founding Engineer at several startups, including two unicorns: <a href = "https://www.biofourmis.com">Biofourmis</a> and <a href = "https://tekion.com/">Tekion</a>, (both USA Product Companies)
 
 At <a href = "https://www.biofourmis.com">Biofourmis</a>, I was the Lead Android Contributor, starting as a Founding Engineer and scaling our products over the years until the company achieved unicorn status.
 
