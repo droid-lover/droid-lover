@@ -19,7 +19,6 @@ Previously, at RentoMojo, a customer-facing startup, I was also the Lead Android
 
 In addition to my work, I contribute to the Android open-source community across various platforms, including Medium, GitHub, YouTube, and Stack Overflow.
 
-
 <br/> <br/>
 ## &#x270d; Coding videos & articles
 
