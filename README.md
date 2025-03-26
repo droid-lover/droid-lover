@@ -28,5 +28,3 @@ Apart from full time Coding, I share coding videos, focused on Android, Kotlin, 
 
 You can also check my articles about some cool Android stuff based on my real experience in development, at my medium blog page, - you can find my articles at my <a href="https://droid-lover.medium.com//">Medium publication</a> 
 
-checkout </a>
-<br/> <br/>
